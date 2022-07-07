@@ -1,7 +1,7 @@
 name: lxy_test_sdk
-description: A new Flutter package project.
+description: lxy Flutter package test.
 version: 0.0.1
-homepage:
+homepage: https://github.com/xlgy/lxy_test_sdk.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
